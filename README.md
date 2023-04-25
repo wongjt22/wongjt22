@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jackson Wong
 - 👀 I’m interested in ML, Game Development, and Web Development
-- 🌱 I’m currently learning React, Express.js, Node.js, MongoDB
+- 🌱 I’m currently a second year computer science student at Cal
 
 <!---
 wongjt22/wongjt22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
