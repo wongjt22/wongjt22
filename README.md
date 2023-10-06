@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Jackson Wong
 - 👀 I’m interested in ML, Game Development, and Web Development
-- 🌱 I’m currently a second year computer science student at Cal
+- 🌱 I’m currently a third year computer science student at Cal
+- 🏫 Supporting students across the world as a software engineer at Quizlet!
 
 <!---
 wongjt22/wongjt22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
