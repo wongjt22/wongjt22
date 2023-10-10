@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jackson Wong
-- 👀 I’m interested in ML, Game Development, and Web Development
+- 👀 I’m interested in Game Development, and Web Development
 - 🌱 I’m currently a third year computer science student at Cal
 - 🏫 Supporting students across the world as a software engineer at Quizlet!
 
