@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jackson Wong
 - 👀 I’m interested in building full stack web applications, usually with some flavor of React.js
-- 🌱 I’m currently a third year computer science student at Cal
+- 🌱 I’m currently a rising fourth year computer science student at Cal
 - 🏫 Supporting students across the world as a software engineer at Quizlet!
 
 <!---
